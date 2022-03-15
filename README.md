@@ -1,1 +1,1 @@
-this is a insruction module to project
+this is a insruction module to the project
